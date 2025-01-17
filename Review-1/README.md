@@ -46,8 +46,8 @@ Stay tuned for updates as the project progresses!
 
 ## 📬 **Contact**
 If you have any questions, suggestions, or feedback, feel free to reach out:
-- **Email**: [Your Email Address]
-- **GitHub Profile**: [Your GitHub Profile Link]
+- **Email**: hazelajwani@gmail,com
+- **GitHub Profile**: (https://github.com/HazelAjwani)
 
 ---
 
